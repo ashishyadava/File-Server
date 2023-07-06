@@ -1,0 +1,11 @@
+{
+  "name": "file-server",
+  "version": "1.0.0",
+  "description": "An HTTP server that allows remote access to a file system. It allows web applications to store and share data, and it can give a group of people shared access to a bunch of files.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish Yadava",
+  "license": "ISC"
+}
